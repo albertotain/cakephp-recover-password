@@ -39,5 +39,5 @@
         "cs-fix": "phpcbf --colors --standard=vendor/cakephp/cakephp-codesniffer/CakePHP ./src ./tests",
         "test": "phpunit --colors=always"
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "2.0"
 }
