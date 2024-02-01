@@ -1,4 +1,4 @@
-# Token Verify plugin for CakePHP3
+# Token Verify plugin for CakePHP4
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
@@ -10,8 +10,8 @@ one-time/url-safe/safety :+1:
 
 # Requirements
 
-- PHP 7.0+
-- CakePHP 3.0.0+
+- PHP 8.1+
+- CakePHP 4.4+
 
 
 # Example
